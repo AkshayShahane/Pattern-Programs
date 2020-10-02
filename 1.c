@@ -12,7 +12,7 @@ int main()
         //Inner loop for the columns
         for(j=1;j<=5;j++)
         printf("*");
-        //Printing next lines after a row
+        //Next line after a row
         printf("\n");
     }
 
